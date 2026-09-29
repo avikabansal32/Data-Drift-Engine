@@ -7,7 +7,7 @@ Machine learning models fail in production when the incoming real-world data cha
 This project is a Python-based engine that automatically compares a historical (reference) dataset against a new (current) dataset, calculates the statistical differences, and visualizes the drift. It acts as an early-warning system for data degradation.
 
 ## Visualizing the Drift
-<img width="775" height="566" alt="Screenshot 2026-09-29 073320" src="https://github.com/user-attachments/assets/26af5146-2f6f-4deb-8154-7c04da13b3be" />
+<img width="500" alt="KDE plot graph" src="https://github.com/user-attachments/assets/26af5146-2f6f-4deb-8154-7c04da13b3be" />
 
 
 ## Tech Stack
