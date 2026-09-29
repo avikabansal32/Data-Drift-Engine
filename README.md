@@ -1,4 +1,3 @@
-# Automated-Data-Drift-and-Statical-Profiling-Engine
 # Automated Data Drift & Statistical Profiling Engine 📊
 
 ## Overview
